@@ -1,2 +1,4 @@
-# This is a remake of the corndog.io website.
-# Made in like 5 minutes.
+# Absolute Chaos
+
+Remake of corndog.io
+Submit images: gamesterdamian@gmail.com
